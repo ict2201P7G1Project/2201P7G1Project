@@ -17,12 +17,12 @@ Access link: </br>
 
 ### Viewing the prototype
 
-1. Upon clicking on the access link, the first flow of the prototype will be presented. Click on the Figma icon to reveal the flows for the entire system.
+**1. Upon clicking on the access link, the first flow of the prototype will be presented. Click on the Figma icon to reveal the flows for the entire system.**
 </br>
 
 ![Step1](screenshots/1.png)
 
-2. The flows are segregated into multiple parts to illustrate the various scenarios and roles when accessing the system
+**2. The flows are segregated into multiple parts to illustrate the various scenarios and roles when accessing the system**
 * [Scenario] Authenticate User - Wrong Password
 * [Scenario] Authenticate User - Reset Password
 * [Role] Administrative Manager
@@ -49,18 +49,20 @@ Access link: </br>
 
 ![Step2](screenshots/2.png)
 
-3. To view each flow, click on the flow and the play button
+**3. To view each flow, click on the flow and the play button**
 
 Example of accessing the workload management system as a Branch Staff
 
+3.1 Select a flow and click on the play button
 ![Step3.1](screenshots/3_1.png)
 
+3.2 Click on the login button at the login page
 ![Step3.2](screenshots/3_2.png)
 
+3.3 Click on an empty spot to receive prompts for where to click for the next flow
 ![Step3.3](screenshots/3_3.png)
 
-4. Repeat from Step 1. to access other flow of the workload management system
-
+**4. Repeat from Step 1. to access other flow of the workload management system**
 
 ## 📹 Video walkthrough
 Access link: 
