@@ -14,6 +14,7 @@ The prototype of of the workload management system is created using the applicat
 
 ### Accessing the prototype
 Access link: </br>
+https://www.figma.com/file/nLOnFpiuGrmkLPB0jQLGwK/ICT2201---Prototype_p7-1 
 
 ### Viewing the prototype
 
@@ -65,7 +66,8 @@ Example of accessing the workload management system as a Branch Staff
 **4. Repeat from Step 1. to access other flow of the workload management system**
 
 ## 📹 Video walkthrough
-Access link: 
+Access link: </br>
+https://youtu.be/fBi7jCBPaF4
 
 
 
